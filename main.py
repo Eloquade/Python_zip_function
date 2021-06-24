@@ -3,6 +3,6 @@ list2 = ['one', 'two', 'three', 'four', 'five', 'six']
 
 zipped = list(zip(list1, list2))
 print(zipped)
-
+print(zipped)
 unzipped = list(zip(*zipped))
 print(unzipped)
